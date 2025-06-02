@@ -1,4 +1,5 @@
 # Super Simple Shopping List
+Graciously hosted on [github.pages](https://mgrzb451.github.io/webdevpractice-shoppinglist1/) (thank you ♥)
 
 Taking a little break from my current course to have fun on a little project and to practice and explore some cool concepts I've been learning about on the side.
 
